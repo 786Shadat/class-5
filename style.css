@@ -1,0 +1,41 @@
+h1 {
+    width:100%;
+    background-color: rgb(183, 123, 218);
+    padding:20px;
+    text-align: center;
+    border-style: double;
+}
+div{ margin: 50px 300px 100px ;
+    border:10px;
+    border-style:groove;
+    border-color: rgb(34, 114, 160);
+    outline: 20px solid rgb(97, 141, 139);
+    /* border-top-right-radius: 5%;
+    border-top-left-radius:5%;
+    border-bottom-left-radius:5%;
+    border-bottom-right-radius:5%; */
+    border-radius:5%;
+    border-width:500%;
+    color: rgb(12, 1, 1);
+    background-color: rgb(48, 87, 158);
+    font-size: 30px;
+    width:50%;
+    background-image:url(img/green_dome_82374832.jpg);
+    background-repeat:no-repeat;
+    background-size: 100% 100%;
+    
+    background-position: 50% center;
+    background-attachment: fixed;
+    text-align: center;
+}
+h2{ color: darkolivegreen;
+padding: 20px 30px 40px;
+background-color: pink;
+border:10px;
+border-style: dashed;
+border-color:rgb(237, 100, 184);
+outline:10px  rebeccapurple
+}
+
+
+
